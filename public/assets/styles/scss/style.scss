@@ -89,6 +89,16 @@ a:hover {
   &__subtitle {
     font-weight: bold;
   }
+  &__request-title {
+    font-size: 20px;
+    margin: 60px auto 20px;
+    font-family: serif;
+    text-align: center;
+  }
+  &__request {
+    text-align: center;
+    font-weight: bold;
+  }
 }
 .icon {
   width: 30px;
@@ -134,7 +144,7 @@ a:hover {
     height: auto;
     border: 1px solid dimgray;
   }
-  &__description-link{
+  &__description-link {
     text-align: center;
   }
   &__img-description {
@@ -223,7 +233,7 @@ footer {
     }
   }
   // WORK=====================
-  .work{
+  .work {
     &__left {
       float: none;
       width: 100%;
