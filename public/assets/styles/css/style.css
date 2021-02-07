@@ -102,6 +102,18 @@ a:hover {
   font-weight: bold;
 }
 
+.about__request-title {
+  font-size: 20px;
+  margin: 60px auto 20px;
+  font-family: serif;
+  text-align: center;
+}
+
+.about__request {
+  text-align: center;
+  font-weight: bold;
+}
+
 .icon {
   width: 30px;
   height: auto;
