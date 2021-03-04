@@ -1,7 +1,7 @@
 # Portfolio Site
 
 ## アプリの概要
-転職活動用の[ポートフォリオ](https://portfolio-site-a81de.web.app/)になります。
+転職活動用のポートフォリオサイトになります。
 
 ##  使用技術・環境
 - HTML
